@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<LOGS>
+	<LOG>
+		<ADD><![CDATA[Add new record!]]></ADD>
+	</LOG>
+	<LOG>
+		<DELETE><![CDATA[Record is Deleted!]]></DELETE>
+	</LOG>
+	<LOG>
+		<CHANGE><![CDATA[Record is changed!]]></CHANGE>
+	</LOG>
+</LOGS>
